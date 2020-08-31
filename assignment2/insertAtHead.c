@@ -1,8 +1,6 @@
-// Program to insert a value at the end of an array
+// Program to insert a value at the start of an array
 
 #include <stdio.h>
-#include <stdbool.h>
-#include <stdlib.h>
 
 #define MAX 10	// maximum size of array
 
