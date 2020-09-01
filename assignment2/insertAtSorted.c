@@ -1,4 +1,4 @@
-// Program to insert a value at the start of an array
+// Program to insert a value at its sorted position in an randomly generated array.
 
 #include <stdio.h>
 
