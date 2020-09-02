@@ -62,7 +62,7 @@ void init( ) // initialize both arrays
   for(i=0; i<N1; i++)
     arr1[i] = randomNum(15, 450);
 
-  for(i=0; i<N2; i++)
+  for(i=0; i<N2continue; i++)
     arr2[i] = randomNum(20, 200);
 
   // Sort both arrays
