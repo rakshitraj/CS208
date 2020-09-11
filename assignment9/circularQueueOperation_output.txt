@@ -1,0 +1,37 @@
+
+Initializing Queue...
+
+Printing Queue:
+(FRONT)-- A --> (REAR -----> FRONT)
+
+Printing Queue:
+(FRONT)-- A --> B --> (REAR -----> FRONT)
+
+Printing Queue:
+(FRONT)-- A --> B --> C --> (REAR -----> FRONT)
+
+Printing Queue:
+(FRONT)-- A --> B --> C --> D --> (REAR -----> FRONT)
+
+Printing Queue:
+(FRONT)-- A --> B --> C --> D --> E --> (REAR -----> FRONT)
+
+Printing Queue:
+(FRONT)-- A --> B --> C --> D --> E --> F --> (REAR -----> FRONT)
+
+Printing Queue:
+(FRONT)-- A --> B --> C --> D --> E --> F --> G --> (REAR -----> FRONT)
+
+Removed Element: A
+Printing Queue:
+(FRONT)-- B --> C --> D --> E --> F --> G --> (REAR -----> FRONT)
+
+Removed Element: B
+Printing Queue:
+(FRONT)-- C --> D --> E --> F --> G --> (REAR -----> FRONT)
+
+Adding Element: H
+Printing Queue:
+(FRONT)-- C --> D --> E --> F --> G --> H --> (REAR -----> FRONT)
+
+DONE.
