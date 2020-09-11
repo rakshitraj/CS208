@@ -72,7 +72,7 @@ char deQueue(struct Queue* q)
     if (q->front == NULL)
     {
         printf("\nQUEUE EMPTY!! Cannot delete. RETURN. ");
-        return;
+        return '\0';
     }
 
     struct QNode* temp = q->front;
@@ -127,6 +127,18 @@ void initQueue(struct Queue *q)
     }
 }
 
+void deallocate(struct Queue *q)
+{
+    struct QNode *current = q->front, *temp;
+    while( current != NULL )
+    {
+        temp = current;
+        free(temp);
+
+        current = current->next;
+    }
+}
+
 // Driver Code
 int main()
 {
@@ -139,4 +151,7 @@ int main()
     printf("\nRemoved Element: %c", deQueue(q));
     show(q);
     printf("\nDONE.\n");
+
+    deallocate(q);
+    free(q);
 }
