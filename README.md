@@ -56,4 +56,13 @@ Queue and Circular Queue - Creation, Insertion, Deletion, Updation
 
 - [Circular Queue Operation](https://github.com/rakshitraj/CS208/blob/master/assignment9/circularQueueOperation_output.txt)
 
+### Assignment 10
+
+Implementing a Binary tree
+
+- [Binary tree using array, C++](https://github.com/rakshitraj/CS208/blob/master/assignment10/binarytree_arr.cpp)
+
+- [Binary tree using Linked List, C++](https://github.com/rakshitraj/CS208/blob/master/assignment10/binarytree_linkedlist.cpp)
+
+
   
