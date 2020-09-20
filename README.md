@@ -2,6 +2,8 @@
 Data Structures and Algorithm in C - Coursework
 Assignments for CS208
 
+**Completed Assignments: 12/12**
+
 ### Assignment 1
 
 - [Linear Search](https://github.com/rakshitraj/CS208/blob/master/assignment1/linearSearch.c)
@@ -64,5 +66,16 @@ Implementing a Binary tree
 
 - [Binary tree using Linked List, C++](https://github.com/rakshitraj/CS208/blob/master/assignment10/binarytree_linkedlist.cpp)
 
-
+### Assignment 11
   
+Generate Binary Tree using its Infix and Prefix Expression
+
+- [Generate Binary tree from Infix and Prefix expression](https://github.com/rakshitraj/CS208/blob/master/assignment11/assignment_11.pdf)
+
+### Assignment 12
+
+Compartive study of structure and Complexities of Sorting Algorithms
+
+- [Sorting Algorithms](https://github.com/rakshitraj/CS208/blob/master/assignment12/sorting_algos.md)
+
+Author: [@rakshitraj](https://github.com/rakshitraj)
