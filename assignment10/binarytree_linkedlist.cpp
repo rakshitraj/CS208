@@ -1,5 +1,6 @@
 /**
- * Program to create a binary tree using an array
+ * Program to create a binary tree from array
+ * using linked list
  *                      
  *                             A
  *                           /    \
